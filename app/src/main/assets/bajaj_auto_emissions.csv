@@ -1,0 +1,501 @@
+Date,Scope,Activity,Emission (kg CO2e)
+2025-01-06,Scope 1,Gas heating system,562.17
+2025-01-13,Scope 2,Factory lighting,377.76
+2025-01-30,Scope 3,Raw material procurement,473.49
+2025-01-05,Scope 2,Factory lighting,6.27
+2025-01-04,Scope 2,Factory lighting,871.31
+2025-01-05,Scope 3,Employee business travel,210.11
+2025-01-22,Scope 2,Factory lighting,313.76
+2025-01-19,Scope 2,Purchased electricity for manufacturing,118.41
+2025-01-04,Scope 3,Employee business travel,297.22
+2025-01-19,Scope 2,Factory lighting,621.19
+2025-01-06,Scope 1,Fuel combustion in company vehicles,770.78
+2025-01-14,Scope 1,Fuel combustion in company vehicles,996.71
+2025-01-07,Scope 2,Office air conditioning,465.46
+2025-01-07,Scope 1,On-site diesel generator use,636.94
+2025-01-16,Scope 1,On-site diesel generator use,535.86
+2025-01-20,Scope 3,Supplier transportation emissions,226.12
+2025-01-05,Scope 1,Gas heating system,261.18
+2025-01-24,Scope 3,Supplier transportation emissions,960.32
+2025-01-23,Scope 2,Factory lighting,9.18
+2025-01-03,Scope 2,Factory lighting,7.09
+2025-01-07,Scope 1,Fuel combustion in company vehicles,231.61
+2025-01-29,Scope 2,Purchased electricity for manufacturing,414.58
+2025-01-03,Scope 1,Fuel combustion in company vehicles,338.46
+2025-01-27,Scope 1,Gas heating system,350.16
+2025-01-27,Scope 3,Employee business travel,554.1
+2025-01-29,Scope 1,Fuel combustion in company vehicles,756.63
+2025-01-05,Scope 1,Gas heating system,474.76
+2025-01-17,Scope 1,Fuel combustion in company vehicles,410.61
+2025-01-04,Scope 1,Fuel combustion in company vehicles,779.63
+2025-01-28,Scope 1,On-site diesel generator use,738.0
+2025-01-18,Scope 1,Gas heating system,684.92
+2025-01-07,Scope 3,Supplier transportation emissions,580.95
+2025-01-28,Scope 3,Supplier transportation emissions,862.7
+2025-01-17,Scope 2,Factory lighting,589.67
+2025-01-03,Scope 3,Supplier transportation emissions,298.5
+2025-01-06,Scope 3,Supplier transportation emissions,398.35
+2025-01-18,Scope 3,Raw material procurement,760.87
+2025-01-01,Scope 1,Fuel combustion in company vehicles,744.79
+2025-01-03,Scope 3,Raw material procurement,9.05
+2025-01-10,Scope 2,Purchased electricity for manufacturing,228.6
+2025-01-16,Scope 2,Factory lighting,486.82
+2025-01-18,Scope 3,Raw material procurement,418.29
+2025-01-23,Scope 1,Fuel combustion in company vehicles,987.72
+2025-01-21,Scope 3,Raw material procurement,616.12
+2025-01-18,Scope 3,Supplier transportation emissions,441.8
+2025-01-28,Scope 1,Gas heating system,141.41
+2025-01-10,Scope 1,Fuel combustion in company vehicles,447.8
+2025-01-14,Scope 2,Purchased electricity for manufacturing,425.02
+2025-01-12,Scope 1,Gas heating system,934.22
+2025-01-30,Scope 3,Raw material procurement,663.11
+2025-01-15,Scope 2,Factory lighting,802.05
+2025-01-13,Scope 2,Office air conditioning,336.91
+2025-01-26,Scope 3,Raw material procurement,392.39
+2025-01-11,Scope 2,Office air conditioning,937.17
+2025-01-28,Scope 3,Supplier transportation emissions,236.59
+2025-01-19,Scope 2,Purchased electricity for manufacturing,666.53
+2025-01-31,Scope 1,On-site diesel generator use,141.71
+2025-01-10,Scope 3,Raw material procurement,963.18
+2025-01-23,Scope 3,Employee business travel,854.41
+2025-01-09,Scope 2,Office air conditioning,146.91
+2025-01-03,Scope 3,Raw material procurement,263.16
+2025-01-07,Scope 1,Fuel combustion in company vehicles,654.53
+2025-01-18,Scope 1,Gas heating system,565.76
+2025-01-27,Scope 3,Supplier transportation emissions,334.43
+2025-01-07,Scope 1,On-site diesel generator use,920.86
+2025-01-06,Scope 3,Raw material procurement,315.84
+2025-01-10,Scope 3,Employee business travel,371.4
+2025-01-18,Scope 2,Purchased electricity for manufacturing,533.93
+2025-01-09,Scope 1,On-site diesel generator use,273.84
+2025-01-11,Scope 3,Supplier transportation emissions,574.82
+2025-01-15,Scope 1,Gas heating system,267.86
+2025-01-29,Scope 2,Office air conditioning,439.96
+2025-01-15,Scope 3,Raw material procurement,921.31
+2025-01-15,Scope 3,Raw material procurement,996.25
+2025-01-17,Scope 1,On-site diesel generator use,405.22
+2025-01-05,Scope 1,On-site diesel generator use,603.02
+2025-01-26,Scope 2,Factory lighting,904.55
+2025-01-28,Scope 1,Fuel combustion in company vehicles,448.92
+2025-01-05,Scope 1,Fuel combustion in company vehicles,486.09
+2025-01-08,Scope 3,Raw material procurement,925.27
+2025-01-30,Scope 2,Office air conditioning,944.82
+2025-01-31,Scope 3,Employee business travel,875.23
+2025-01-24,Scope 3,Employee business travel,472.91
+2025-01-06,Scope 3,Raw material procurement,838.02
+2025-01-13,Scope 3,Supplier transportation emissions,218.32
+2025-01-13,Scope 1,Gas heating system,139.07
+2025-01-09,Scope 3,Raw material procurement,623.08
+2025-01-02,Scope 1,On-site diesel generator use,181.16
+2025-01-10,Scope 3,Employee business travel,936.06
+2025-01-18,Scope 2,Office air conditioning,106.74
+2025-01-23,Scope 1,Gas heating system,522.22
+2025-01-01,Scope 1,On-site diesel generator use,212.37
+2025-01-14,Scope 2,Factory lighting,979.21
+2025-01-28,Scope 1,Gas heating system,513.36
+2025-01-06,Scope 3,Raw material procurement,227.05
+2025-01-14,Scope 2,Office air conditioning,817.76
+2025-01-28,Scope 2,Purchased electricity for manufacturing,840.92
+2025-01-31,Scope 3,Supplier transportation emissions,279.41
+2025-01-26,Scope 3,Supplier transportation emissions,732.45
+2025-01-13,Scope 1,Fuel combustion in company vehicles,538.91
+2025-01-07,Scope 2,Factory lighting,985.98
+2025-01-24,Scope 3,Supplier transportation emissions,484.75
+2025-01-18,Scope 2,Purchased electricity for manufacturing,418.18
+2025-01-04,Scope 3,Supplier transportation emissions,614.63
+2025-01-17,Scope 1,Fuel combustion in company vehicles,128.93
+2025-01-13,Scope 1,On-site diesel generator use,909.4
+2025-01-20,Scope 2,Office air conditioning,682.08
+2025-01-03,Scope 2,Factory lighting,925.56
+2025-01-26,Scope 1,Gas heating system,452.36
+2025-01-29,Scope 3,Employee business travel,630.58
+2025-01-16,Scope 2,Office air conditioning,115.87
+2025-01-14,Scope 2,Office air conditioning,872.78
+2025-01-27,Scope 3,Supplier transportation emissions,823.66
+2025-01-13,Scope 3,Raw material procurement,641.44
+2025-01-08,Scope 1,On-site diesel generator use,293.41
+2025-01-20,Scope 2,Factory lighting,620.85
+2025-01-26,Scope 1,Gas heating system,493.25
+2025-01-26,Scope 3,Raw material procurement,854.04
+2025-01-01,Scope 3,Employee business travel,293.9
+2025-01-10,Scope 2,Factory lighting,522.28
+2025-01-24,Scope 3,Supplier transportation emissions,776.25
+2025-01-21,Scope 1,Gas heating system,736.0
+2025-01-03,Scope 2,Office air conditioning,831.13
+2025-01-14,Scope 1,On-site diesel generator use,365.13
+2025-01-11,Scope 1,Fuel combustion in company vehicles,243.6
+2025-01-21,Scope 1,Fuel combustion in company vehicles,160.31
+2025-01-23,Scope 1,Fuel combustion in company vehicles,608.73
+2025-01-16,Scope 1,Gas heating system,246.27
+2025-01-15,Scope 3,Raw material procurement,343.03
+2025-01-14,Scope 3,Raw material procurement,377.1
+2025-01-24,Scope 1,Gas heating system,242.01
+2025-01-20,Scope 3,Employee business travel,981.58
+2025-01-07,Scope 1,On-site diesel generator use,360.94
+2025-01-29,Scope 1,Fuel combustion in company vehicles,758.43
+2025-01-10,Scope 3,Supplier transportation emissions,882.53
+2025-01-21,Scope 1,Fuel combustion in company vehicles,920.23
+2025-01-25,Scope 1,Gas heating system,654.66
+2025-01-13,Scope 1,Fuel combustion in company vehicles,383.58
+2025-01-09,Scope 2,Factory lighting,787.11
+2025-01-03,Scope 2,Purchased electricity for manufacturing,472.22
+2025-01-27,Scope 1,Gas heating system,582.2
+2025-01-29,Scope 2,Purchased electricity for manufacturing,226.4
+2025-01-29,Scope 2,Factory lighting,784.67
+2025-01-31,Scope 3,Raw material procurement,759.98
+2025-01-30,Scope 1,Gas heating system,759.8
+2025-01-13,Scope 2,Factory lighting,551.44
+2025-01-05,Scope 3,Employee business travel,225.86
+2025-01-26,Scope 2,Factory lighting,880.05
+2025-01-28,Scope 1,Gas heating system,887.06
+2025-01-27,Scope 2,Office air conditioning,480.32
+2025-01-24,Scope 2,Purchased electricity for manufacturing,242.24
+2025-01-03,Scope 3,Raw material procurement,200.85
+2025-01-22,Scope 3,Raw material procurement,261.71
+2025-01-30,Scope 2,Office air conditioning,519.98
+2025-01-02,Scope 2,Purchased electricity for manufacturing,505.68
+2025-01-05,Scope 2,Factory lighting,875.66
+2025-01-31,Scope 3,Raw material procurement,836.64
+2025-01-28,Scope 2,Purchased electricity for manufacturing,271.05
+2025-01-09,Scope 1,On-site diesel generator use,714.34
+2025-01-10,Scope 2,Factory lighting,161.66
+2025-01-10,Scope 2,Office air conditioning,314.16
+2025-01-18,Scope 2,Factory lighting,200.96
+2025-01-24,Scope 2,Purchased electricity for manufacturing,191.91
+2025-01-30,Scope 2,Purchased electricity for manufacturing,663.55
+2025-01-28,Scope 2,Factory lighting,372.15
+2025-01-27,Scope 2,Office air conditioning,191.26
+2025-01-24,Scope 1,Gas heating system,760.38
+2025-01-11,Scope 2,Office air conditioning,581.37
+2025-01-14,Scope 1,On-site diesel generator use,136.6
+2025-01-01,Scope 3,Employee business travel,298.18
+2025-01-13,Scope 1,Gas heating system,501.82
+2025-01-15,Scope 1,On-site diesel generator use,477.83
+2025-01-09,Scope 3,Supplier transportation emissions,410.69
+2025-01-09,Scope 2,Purchased electricity for manufacturing,953.38
+2025-01-23,Scope 3,Raw material procurement,923.99
+2025-01-08,Scope 2,Office air conditioning,416.92
+2025-01-10,Scope 2,Office air conditioning,575.09
+2025-01-04,Scope 3,Supplier transportation emissions,450.93
+2025-01-20,Scope 2,Purchased electricity for manufacturing,282.96
+2025-01-02,Scope 3,Employee business travel,926.37
+2025-01-25,Scope 1,Gas heating system,432.29
+2025-01-30,Scope 2,Office air conditioning,232.81
+2025-01-01,Scope 3,Employee business travel,657.85
+2025-01-22,Scope 2,Purchased electricity for manufacturing,393.92
+2025-01-01,Scope 2,Office air conditioning,931.92
+2025-01-07,Scope 2,Purchased electricity for manufacturing,537.15
+2025-01-30,Scope 1,Fuel combustion in company vehicles,170.11
+2025-01-27,Scope 3,Supplier transportation emissions,201.51
+2025-01-08,Scope 3,Raw material procurement,871.15
+2025-01-23,Scope 3,Supplier transportation emissions,137.31
+2025-01-14,Scope 2,Office air conditioning,445.34
+2025-01-28,Scope 3,Raw material procurement,791.34
+2025-01-18,Scope 2,Purchased electricity for manufacturing,254.02
+2025-01-29,Scope 3,Supplier transportation emissions,667.33
+2025-01-29,Scope 1,Fuel combustion in company vehicles,684.12
+2025-01-12,Scope 2,Factory lighting,197.75
+2025-01-23,Scope 1,On-site diesel generator use,918.94
+2025-01-02,Scope 3,Raw material procurement,833.33
+2025-01-18,Scope 1,Gas heating system,235.18
+2025-01-24,Scope 1,Fuel combustion in company vehicles,777.78
+2025-01-13,Scope 3,Supplier transportation emissions,369.3
+2025-01-04,Scope 2,Office air conditioning,918.47
+2025-01-03,Scope 2,Purchased electricity for manufacturing,612.73
+2025-01-10,Scope 2,Purchased electricity for manufacturing,290.43
+2025-01-01,Scope 2,Office air conditioning,121.6
+2025-01-03,Scope 3,Employee business travel,759.67
+2025-01-27,Scope 3,Raw material procurement,125.21
+2025-01-29,Scope 2,Office air conditioning,853.1
+2025-01-14,Scope 2,Office air conditioning,849.46
+2025-01-12,Scope 1,On-site diesel generator use,732.67
+2025-01-19,Scope 2,Factory lighting,280.94
+2025-01-14,Scope 1,On-site diesel generator use,881.49
+2025-01-19,Scope 2,Office air conditioning,923.35
+2025-01-07,Scope 2,Office air conditioning,397.53
+2025-01-06,Scope 3,Supplier transportation emissions,251.37
+2025-01-24,Scope 3,Supplier transportation emissions,922.94
+2025-01-24,Scope 1,On-site diesel generator use,477.45
+2025-01-20,Scope 1,Gas heating system,101.8
+2025-01-25,Scope 2,Factory lighting,770.86
+2025-01-15,Scope 3,Raw material procurement,452.35
+2025-01-28,Scope 3,Employee business travel,366.35
+2025-01-24,Scope 1,On-site diesel generator use,651.65
+2025-01-06,Scope 2,Office air conditioning,403.61
+2025-01-19,Scope 3,Supplier transportation emissions,505.96
+2025-01-20,Scope 2,Office air conditioning,921.37
+2025-01-12,Scope 3,Supplier transportation emissions,420.26
+2025-01-17,Scope 2,Office air conditioning,610.09
+2025-01-16,Scope 2,Factory lighting,651.75
+2025-01-06,Scope 3,Employee business travel,932.22
+2025-01-29,Scope 1,Fuel combustion in company vehicles,460.57
+2025-01-09,Scope 3,Employee business travel,137.8
+2025-01-01,Scope 2,Office air conditioning,590.89
+2025-01-12,Scope 1,Gas heating system,519.85
+2025-01-14,Scope 1,On-site diesel generator use,251.42
+2025-01-18,Scope 1,Gas heating system,731.33
+2025-01-01,Scope 3,Employee business travel,961.45
+2025-01-26,Scope 3,Supplier transportation emissions,641.33
+2025-01-20,Scope 1,Gas heating system,809.33
+2025-01-05,Scope 1,On-site diesel generator use,299.75
+2025-01-19,Scope 1,On-site diesel generator use,456.42
+2025-01-18,Scope 3,Supplier transportation emissions,410.76
+2025-01-07,Scope 1,Gas heating system,828.5
+2025-01-21,Scope 1,On-site diesel generator use,848.52
+2025-01-10,Scope 3,Supplier transportation emissions,570.07
+2025-01-15,Scope 1,On-site diesel generator use,846.08
+2025-01-31,Scope 1,On-site diesel generator use,922.59
+2025-01-10,Scope 1,On-site diesel generator use,817.59
+2025-01-26,Scope 2,Purchased electricity for manufacturing,265.83
+2025-01-06,Scope 2,Purchased electricity for manufacturing,249.09
+2025-01-04,Scope 2,Factory lighting,210.21
+2025-01-31,Scope 1,Gas heating system,265.96
+2025-01-24,Scope 3,Employee business travel,649.83
+2025-01-07,Scope 1,Fuel combustion in company vehicles,591.7
+2025-01-22,Scope 2,Factory lighting,381.28
+2025-01-12,Scope 1,Gas heating system,867.39
+2025-01-03,Scope 3,Supplier transportation emissions,731.95
+2025-01-24,Scope 1,Gas heating system,392.14
+2025-01-16,Scope 2,Office air conditioning,321.01
+2025-01-24,Scope 1,Fuel combustion in company vehicles,507.73
+2025-01-20,Scope 1,Fuel combustion in company vehicles,705.7
+2025-01-19,Scope 3,Supplier transportation emissions,862.11
+2025-01-10,Scope 2,Purchased electricity for manufacturing,276.62
+2025-01-02,Scope 2,Office air conditioning,940.8
+2025-01-20,Scope 1,Gas heating system,166.73
+2025-01-13,Scope 1,Gas heating system,162.2
+2025-01-19,Scope 3,Raw material procurement,324.43
+2025-01-12,Scope 2,Factory lighting,518.12
+2025-01-05,Scope 3,Raw material procurement,145.49
+2025-01-08,Scope 2,Purchased electricity for manufacturing,525.03
+2025-01-23,Scope 2,Factory lighting,328.17
+2025-01-09,Scope 1,Fuel combustion in company vehicles,171.69
+2025-01-16,Scope 3,Supplier transportation emissions,254.53
+2025-01-13,Scope 2,Purchased electricity for manufacturing,475.4
+2025-01-05,Scope 1,Gas heating system,334.04
+2025-01-23,Scope 1,On-site diesel generator use,859.84
+2025-01-05,Scope 2,Office air conditioning,833.87
+2025-01-22,Scope 1,On-site diesel generator use,306.01
+2025-01-13,Scope 1,Fuel combustion in company vehicles,764.12
+2025-01-29,Scope 2,Factory lighting,671.03
+2025-01-28,Scope 2,Office air conditioning,739.5
+2025-01-04,Scope 1,Gas heating system,659.75
+2025-01-31,Scope 3,Supplier transportation emissions,441.02
+2025-01-05,Scope 1,On-site diesel generator use,947.25
+2025-01-20,Scope 1,On-site diesel generator use,506.64
+2025-01-19,Scope 1,Fuel combustion in company vehicles,108.75
+2025-01-12,Scope 2,Office air conditioning,825.5
+2025-01-11,Scope 3,Raw material procurement,910.15
+2025-01-03,Scope 3,Raw material procurement,788.59
+2025-01-12,Scope 3,Raw material procurement,720.62
+2025-01-15,Scope 2,Purchased electricity for manufacturing,605.82
+2025-01-04,Scope 2,Purchased electricity for manufacturing,498.96
+2025-01-03,Scope 3,Supplier transportation emissions,237.65
+2025-01-16,Scope 2,Office air conditioning,248.7
+2025-01-21,Scope 1,On-site diesel generator use,699.42
+2025-01-22,Scope 2,Office air conditioning,935.11
+2025-01-27,Scope 3,Employee business travel,853.96
+2025-01-07,Scope 2,Office air conditioning,144.28
+2025-01-12,Scope 1,Fuel combustion in company vehicles,142.52
+2025-01-02,Scope 3,Supplier transportation emissions,355.38
+2025-01-18,Scope 3,Supplier transportation emissions,213.83
+2025-01-27,Scope 1,Fuel combustion in company vehicles,976.33
+2025-01-09,Scope 3,Employee business travel,439.04
+2025-01-31,Scope 2,Factory lighting,257.05
+2025-01-22,Scope 3,Supplier transportation emissions,552.03
+2025-01-11,Scope 3,Supplier transportation emissions,120.2
+2025-01-29,Scope 1,On-site diesel generator use,931.51
+2025-01-14,Scope 1,Fuel combustion in company vehicles,516.09
+2025-01-24,Scope 1,Gas heating system,603.03
+2025-01-17,Scope 3,Raw material procurement,891.76
+2025-01-29,Scope 1,Gas heating system,672.87
+2025-01-03,Scope 2,Purchased electricity for manufacturing,619.54
+2025-01-07,Scope 3,Supplier transportation emissions,208.89
+2025-01-02,Scope 2,Factory lighting,342.36
+2025-01-11,Scope 3,Supplier transportation emissions,977.94
+2025-01-10,Scope 3,Employee business travel,425.52
+2025-01-15,Scope 3,Raw material procurement,912.66
+2025-01-09,Scope 3,Employee business travel,994.79
+2025-01-15,Scope 1,Fuel combustion in company vehicles,466.65
+2025-01-18,Scope 2,Purchased electricity for manufacturing,268.59
+2025-01-12,Scope 2,Office air conditioning,546.89
+2025-01-09,Scope 2,Office air conditioning,749.49
+2025-01-09,Scope 1,Fuel combustion in company vehicles,409.26
+2025-01-12,Scope 2,Purchased electricity for manufacturing,499.04
+2025-01-13,Scope 1,Fuel combustion in company vehicles,103.58
+2025-01-03,Scope 1,On-site diesel generator use,855.34
+2025-01-30,Scope 1,Fuel combustion in company vehicles,239.42
+2025-01-07,Scope 3,Supplier transportation emissions,229.51
+2025-01-22,Scope 2,Factory lighting,125.91
+2025-01-28,Scope 1,Gas heating system,607.39
+2025-01-05,Scope 2,Purchased electricity for manufacturing,380.8
+2025-01-24,Scope 3,Raw material procurement,786.35
+2025-01-07,Scope 3,Employee business travel,863.76
+2025-01-28,Scope 2,Office air conditioning,481.51
+2025-01-01,Scope 3,Supplier transportation emissions,470.33
+2025-01-16,Scope 2,Purchased electricity for manufacturing,115.57
+2025-01-19,Scope 2,Office air conditioning,909.58
+2025-01-20,Scope 1,On-site diesel generator use,123.42
+2025-01-28,Scope 2,Factory lighting,597.87
+2025-01-10,Scope 1,On-site diesel generator use,213.71
+2025-01-24,Scope 2,Factory lighting,245.82
+2025-01-03,Scope 3,Raw material procurement,592.98
+2025-01-10,Scope 3,Supplier transportation emissions,224.42
+2025-01-09,Scope 1,Gas heating system,744.05
+2025-01-05,Scope 1,Fuel combustion in company vehicles,804.71
+2025-01-18,Scope 1,Fuel combustion in company vehicles,626.43
+2025-01-28,Scope 1,Gas heating system,353.87
+2025-01-11,Scope 3,Employee business travel,427.29
+2025-01-11,Scope 2,Purchased electricity for manufacturing,630.37
+2025-01-09,Scope 2,Office air conditioning,274.02
+2025-01-04,Scope 1,Fuel combustion in company vehicles,632.12
+2025-01-11,Scope 1,Gas heating system,460.43
+2025-01-01,Scope 2,Purchased electricity for manufacturing,706.63
+2025-01-16,Scope 2,Factory lighting,757.82
+2025-01-12,Scope 1,On-site diesel generator use,387.27
+2025-01-31,Scope 1,Fuel combustion in company vehicles,277.62
+2025-01-03,Scope 2,Office air conditioning,109.31
+2025-01-04,Scope 1,Fuel combustion in company vehicles,748.98
+2025-01-13,Scope 2,Purchased electricity for manufacturing,770.92
+2025-01-06,Scope 2,Office air conditioning,854.23
+2025-01-02,Scope 2,Office air conditioning,521.7
+2025-01-17,Scope 2,Factory lighting,749.74
+2025-01-03,Scope 1,Gas heating system,350.98
+2025-01-10,Scope 1,Fuel combustion in company vehicles,677.4
+2025-01-12,Scope 2,Office air conditioning,895.52
+2025-01-30,Scope 2,Office air conditioning,969.72
+2025-01-04,Scope 1,On-site diesel generator use,838.62
+2025-01-10,Scope 3,Raw material procurement,910.58
+2025-01-19,Scope 3,Raw material procurement,564.67
+2025-01-19,Scope 1,On-site diesel generator use,171.45
+2025-01-30,Scope 3,Supplier transportation emissions,238.75
+2025-01-09,Scope 2,Factory lighting,949.07
+2025-01-31,Scope 1,Fuel combustion in company vehicles,331.19
+2025-01-01,Scope 2,Factory lighting,955.96
+2025-01-01,Scope 3,Raw material procurement,145.82
+2025-01-27,Scope 2,Office air conditioning,932.93
+2025-01-14,Scope 3,Employee business travel,829.38
+2025-01-10,Scope 2,Factory lighting,936.62
+2025-01-11,Scope 3,Supplier transportation emissions,920.34
+2025-01-06,Scope 3,Supplier transportation emissions,400.68
+2025-01-01,Scope 1,Gas heating system,347.23
+2025-01-01,Scope 2,Factory lighting,701.7
+2025-01-03,Scope 2,Purchased electricity for manufacturing,896.29
+2025-01-18,Scope 1,Fuel combustion in company vehicles,145.22
+2025-01-26,Scope 2,Office air conditioning,187.13
+2025-01-07,Scope 3,Supplier transportation emissions,504.0
+2025-01-22,Scope 1,On-site diesel generator use,354.91
+2025-01-13,Scope 1,Fuel combustion in company vehicles,301.41
+2025-01-11,Scope 1,Gas heating system,414.08
+2025-01-28,Scope 2,Factory lighting,902.86
+2025-01-20,Scope 1,On-site diesel generator use,714.46
+2025-01-08,Scope 1,On-site diesel generator use,563.46
+2025-01-09,Scope 2,Office air conditioning,712.32
+2025-01-25,Scope 1,Gas heating system,906.73
+2025-01-07,Scope 2,Office air conditioning,278.32
+2025-01-01,Scope 1,Fuel combustion in company vehicles,737.46
+2025-01-03,Scope 3,Raw material procurement,999.33
+2025-01-14,Scope 2,Office air conditioning,498.34
+2025-01-28,Scope 2,Office air conditioning,845.45
+2025-01-01,Scope 1,Fuel combustion in company vehicles,774.92
+2025-01-10,Scope 3,Raw material procurement,577.03
+2025-01-09,Scope 3,Raw material procurement,808.82
+2025-01-09,Scope 3,Supplier transportation emissions,494.6
+2025-01-12,Scope 3,Employee business travel,498.28
+2025-01-31,Scope 1,Fuel combustion in company vehicles,989.31
+2025-01-09,Scope 2,Purchased electricity for manufacturing,952.65
+2025-01-07,Scope 2,Purchased electricity for manufacturing,483.37
+2025-01-20,Scope 2,Factory lighting,508.97
+2025-01-08,Scope 1,Fuel combustion in company vehicles,312.61
+2025-01-04,Scope 3,Raw material procurement,567.3
+2025-01-18,Scope 1,Gas heating system,636.77
+2025-01-16,Scope 2,Purchased electricity for manufacturing,673.8
+2025-01-07,Scope 1,Gas heating system,695.86
+2025-01-11,Scope 1,On-site diesel generator use,153.55
+2025-01-29,Scope 3,Employee business travel,847.15
+2025-01-08,Scope 2,Purchased electricity for manufacturing,803.16
+2025-01-06,Scope 1,On-site diesel generator use,315.67
+2025-01-11,Scope 2,Office air conditioning,510.75
+2025-01-20,Scope 3,Supplier transportation emissions,394.66
+2025-01-21,Scope 3,Supplier transportation emissions,900.01
+2025-01-13,Scope 3,Employee business travel,507.01
+2025-01-21,Scope 2,Purchased electricity for manufacturing,338.91
+2025-01-13,Scope 3,Raw material procurement,992.42
+2025-01-31,Scope 3,Supplier transportation emissions,221.69
+2025-01-04,Scope 2,Purchased electricity for manufacturing,952.24
+2025-01-21,Scope 2,Office air conditioning,694.14
+2025-01-30,Scope 3,Employee business travel,366.15
+2025-01-25,Scope 2,Factory lighting,973.3
+2025-01-27,Scope 1,Fuel combustion in company vehicles,737.24
+2025-01-09,Scope 2,Purchased electricity for manufacturing,820.64
+2025-01-20,Scope 3,Employee business travel,617.37
+2025-01-27,Scope 2,Office air conditioning,651.85
+2025-01-29,Scope 1,Gas heating system,101.62
+2025-01-16,Scope 3,Supplier transportation emissions,284.48
+2025-01-14,Scope 3,Employee business travel,621.08
+2025-01-17,Scope 1,On-site diesel generator use,259.56
+2025-01-16,Scope 1,Gas heating system,611.12
+2025-01-13,Scope 1,Fuel combustion in company vehicles,497.73
+2025-01-18,Scope 2,Factory lighting,801.02
+2025-01-02,Scope 1,On-site diesel generator use,866.22
+2025-01-04,Scope 3,Raw material procurement,710.36
+2025-01-18,Scope 3,Employee business travel,523.63
+2025-01-06,Scope 2,Factory lighting,557.8
+2025-01-02,Scope 2,Purchased electricity for manufacturing,507.33
+2025-01-29,Scope 2,Factory lighting,316.95
+2025-01-02,Scope 2,Factory lighting,401.41
+2025-01-15,Scope 2,Office air conditioning,290.1
+2025-01-06,Scope 2,Office air conditioning,369.23
+2025-01-14,Scope 3,Supplier transportation emissions,130.68
+2025-01-19,Scope 1,Fuel combustion in company vehicles,455.04
+2025-01-11,Scope 1,On-site diesel generator use,771.15
+2025-01-04,Scope 2,Office air conditioning,734.37
+2025-01-25,Scope 3,Raw material procurement,543.36
+2025-01-21,Scope 2,Office air conditioning,410.81
+2025-01-23,Scope 3,Employee business travel,399.38
+2025-01-27,Scope 1,Gas heating system,703.14
+2025-01-24,Scope 2,Factory lighting,623.45
+2025-01-28,Scope 3,Raw material procurement,764.13
+2025-01-10,Scope 2,Factory lighting,723.31
+2025-01-29,Scope 2,Office air conditioning,123.01
+2025-01-04,Scope 2,Office air conditioning,945.71
+2025-01-31,Scope 3,Raw material procurement,699.51
+2025-01-24,Scope 2,Factory lighting,159.55
+2025-01-28,Scope 3,Raw material procurement,483.85
+2025-01-16,Scope 3,Supplier transportation emissions,555.06
+2025-01-20,Scope 1,Gas heating system,309.97
+2025-01-09,Scope 2,Office air conditioning,477.32
+2025-01-03,Scope 3,Supplier transportation emissions,691.16
+2025-01-28,Scope 2,Purchased electricity for manufacturing,882.4
+2025-01-31,Scope 1,On-site diesel generator use,790.44
+2025-01-22,Scope 3,Employee business travel,133.57
+2025-01-31,Scope 3,Raw material procurement,278.22
+2025-01-30,Scope 1,On-site diesel generator use,217.46
+2025-01-19,Scope 1,On-site diesel generator use,414.26
+2025-01-04,Scope 1,Fuel combustion in company vehicles,828.94
+2025-01-27,Scope 1,Gas heating system,173.86
+2025-01-06,Scope 3,Supplier transportation emissions,132.63
+2025-01-21,Scope 3,Supplier transportation emissions,414.98
+2025-01-12,Scope 1,Fuel combustion in company vehicles,257.86
+2025-01-02,Scope 3,Supplier transportation emissions,188.35
+2025-01-06,Scope 2,Factory lighting,967.42
+2025-01-17,Scope 1,Fuel combustion in company vehicles,521.2
+2025-01-21,Scope 1,Gas heating system,354.26
+2025-01-20,Scope 2,Office air conditioning,914.77
+2025-01-26,Scope 1,Gas heating system,362.1
+2025-01-03,Scope 3,Employee business travel,713.32
+2025-01-02,Scope 2,Purchased electricity for manufacturing,171.01
+2025-01-06,Scope 3,Supplier transportation emissions,674.76
+2025-01-30,Scope 2,Purchased electricity for manufacturing,693.18
+2025-01-08,Scope 3,Supplier transportation emissions,751.76
+2025-01-09,Scope 2,Office air conditioning,370.47
+2025-01-07,Scope 2,Factory lighting,329.16
+2025-01-01,Scope 2,Factory lighting,784.64
+2025-01-23,Scope 3,Raw material procurement,216.19
+2025-01-06,Scope 1,Fuel combustion in company vehicles,894.74
+2025-01-15,Scope 2,Purchased electricity for manufacturing,511.49
+2025-01-06,Scope 2,Factory lighting,861.79
+2025-01-01,Scope 2,Purchased electricity for manufacturing,959.24
+2025-01-23,Scope 3,Supplier transportation emissions,785.44
+2025-01-31,Scope 2,Factory lighting,921.01
+2025-01-17,Scope 3,Raw material procurement,617.64
