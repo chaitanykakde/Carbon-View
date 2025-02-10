@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Background Colors -->
+
+        <!-- Background & Surface Colors -->
+        <color name="colorBackground">#E8F2EE</color>
+        <color name="colorSurface">#FFFFFF</color>
+        <color name="colorSurfaceVariant">#E3E9EF</color>
+        <color name="colorOutline">#B0BEC5</color>
+
+        <!-- Primary Colors -->
+        <color name="colorPrimary">#1E7D32</color>
+        <color name="colorPrimaryContainer">#28A745</color>
+        <color name="colorOnPrimary">#FFFFFF</color>
+
+        <!-- Secondary & Tertiary Colors -->
+        <color name="colorSecondary">#23963E</color>
+        <color name="colorSecondaryContainer">#1B5E20</color>
+        <color name="colorOnSecondary">#FFFFFF</color>
+        <color name="colorTertiary">#FFC107</color>
+        <color name="colorOnTertiary">#000000</color>
+
+        <!-- Text & UI Elements -->
+        <color name="colorTextPrimary">#1B5E20</color>
+        <color name="colorTextSecondary">#374151</color>
+        <color name="colorOnSurface">#5A636E</color>
+        <color name="colorDivider">#D1D5DB</color>
+
+        <!-- Graph & Data Visualization -->
+        <color name="colorGraphPrimary">#1E7D32</color>
+        <color name="colorGraphSecondary">#28A745</color>
+        <color name="colorGraphTrend">#FFC107</color>
+        <color name="colorHighEmissions">#DC3545</color>
+        <color name="colorLowEmissions">#007BFF</color>
+
+        <!-- Message & Alert Colors -->
+        <color name="colorSuccess">#1E7D32</color>
+        <color name="colorError">#DC3545</color>
+        <color name="colorWarning">#FFC107</color>
+        <color name="colorInfo">#007BFF</color>
+    <color name="primary_green">#4CAF50</color>
+    <color name="background_grey">#F5F5F5</color>
+    <color name="text_grey">#616161</color>
+    <color name="alert_red">#F44336</color>
+    <color name="scope1_color">#FFA726</color>
+    <color name="scope2_color">#42A5F5</color>
+    <color name="scope3_color">#66BB6A</color>
+    <color name="white">#FFFFFF</color>
+
 </resources>
