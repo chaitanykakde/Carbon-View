@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Carbon Emissions</string>
+
+    <style name="CircleButton" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="Widget.App.Button" parent="Widget.Material3.Button">
+        <item name="android:layout_height">56dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="shapeAppearanceOverlay">@style/RoundedButton</item>
+    </style>
+
+    <style name="RoundedButton" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+
 </resources>

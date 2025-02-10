@@ -1,7 +1,42 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.CarbonEmissions" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    <!-- Dark Theme -->
+    <style name="Base.Theme.CarbonEmissions" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Primary and Secondary Colors -->
+        <item name="colorPrimary">#1B5E20</item>  <!-- Dark Green -->
+        <item name="colorPrimaryContainer">#2E7D32</item> <!-- Slightly Lighter Green -->
+        <item name="colorOnPrimary">#FFFFFF</item>  <!-- White Text on Dark Green -->
+        <item name="colorSecondary">#0288D1</item> <!-- Dark Blue -->
+        <item name="colorSecondaryContainer">#01579B</item> <!-- Slightly Darker Blue -->
+        <item name="colorOnSecondary">#E3F2FD</item> <!-- Light Blue for contrast -->
+        <item name="colorTertiary">#FF6F00</item> <!-- Dark Orange -->
+        <item name="colorTertiaryContainer">#E65100</item> <!-- Deeper Orange -->
+
+        <!-- Surface and Background Colors -->
+        <item name="colorSurface">#121212</item>  <!-- Black -->
+        <item name="colorOnSurface">#E0E0E0</item>  <!-- Light Grey -->
+        <item name="colorOutline">#424242</item>  <!-- Dark Grey -->
+
+        <!-- Hint text color -->
+        <item name="hintTextColor">#9E9E9E</item>  <!-- Grey for hints -->
+
+        <!-- Typography -->
+        <item name="textAppearanceHeadline1">@style/TextAppearance.Material3.HeadlineLarge</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.Material3.BodyLarge</item>
+        <item name="android:fontFamily">@font/medium</item>
+
+        <!-- Shape and Corners -->
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.Material3.MediumComponent</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <!-- Status Bar & Elevation -->
+
+        <item name="elevationOverlayEnabled">true</item>
+        <item name="elevationOverlayColor">#424242</item>  <!-- Dark Grey -->
     </style>
+
+    <!-- Default Dark Mode -->
+    <style name="Theme.CarbonEmissions" parent="Base.Theme.CarbonEmissions" />
+
+    <!-- Hint Text Color Definition -->
+
 </resources>

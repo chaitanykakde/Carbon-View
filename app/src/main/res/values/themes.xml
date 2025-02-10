@@ -1,9 +1,40 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
+    <!-- Base application theme -->
     <style name="Base.Theme.CarbonEmissions" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Primary and Secondary Colors -->
+        <item name="colorPrimary">#00796B</item> <!-- Teal -->
+        <item name="colorPrimaryContainer">#B2DFDB</item> <!-- Light teal -->
+        <item name="colorOnPrimary">#FFFFFF</item> <!-- White -->
+        <item name="colorSecondary">#0288D1</item> <!-- Blue -->
+        <item name="colorSecondaryContainer">#B3E5FC</item> <!-- Light blue -->
+        <item name="colorOnSecondary">#FFFFFF</item> <!-- White -->
+        <item name="colorTertiary">#FFA000</item> <!-- Amber -->
+        <item name="colorTertiaryContainer">#FFECB3</item> <!-- Light amber -->
+
+        <!-- Surface and Background Colors -->
+        <item name="colorSurface">#FAFAFA</item> <!-- Light grey -->
+        <item name="colorOnSurface">#212121</item> <!-- Dark text -->
+        <item name="colorOutline">#BDBDBD</item> <!-- Grey -->
+
+        <!-- Hint text color -->
+        <item name="hintTextColor">#757575</item> <!-- Medium grey -->
+
+        <!-- Typography -->
+        <item name="textAppearanceHeadline1">@style/TextAppearance.Material3.HeadlineLarge</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.Material3.BodyLarge</item>
+        <item name="android:fontFamily">@font/medium</item>
+
+        <!-- Shape and Corners -->
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.Material3.MediumComponent</item>
+        <item name="elevationOverlayEnabled">true</item>
+        <item name="elevationOverlayColor">#424242</item>  <!-- Dark Grey -->
+
+        <!-- Status Bar & Elevation -->
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#000</item> <!-- Teal -->
+       <!-- Grey -->
     </style>
 
+    <!-- Light Mode -->
     <style name="Theme.CarbonEmissions" parent="Base.Theme.CarbonEmissions" />
 </resources>
