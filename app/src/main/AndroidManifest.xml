@@ -13,7 +13,7 @@
         android:theme="@style/Theme.CarbonEmissions"
         tools:targetApi="31">
         <activity
-            android:name=".Dashboard"
+            android:name=".Onboard"
             android:exported="true"
             android:theme="@style/Base.Theme.CarbonEmissions">
             <intent-filter>
@@ -24,6 +24,16 @@
 
 
 
+        </activity>
+        <activity
+            android:name=".Dashboard"
+            android:exported="true"
+            android:theme="@style/Base.Theme.CarbonEmissions">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity
             android:name=".TermsConditons"
